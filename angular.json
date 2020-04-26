@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "arunachaladinesh-resume"
+    }
+  },
+  "defaultProject": "arunachaladinesh-resume",
+  "cli": {
+    "analytics": "eaed9ce7-1352-4110-b704-e752b6175c92"
+  }
 }
